@@ -62,17 +62,6 @@
 
 ---
 
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayuruRamanayake&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook" height="180" alt="top languages"/>
-</p>
-
-> *Reflects languages in personal repos only — full stack shown in Tech Stack above*
-
----
-
-
 
 ### 📫 Connect
 
