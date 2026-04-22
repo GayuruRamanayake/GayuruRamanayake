@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Gayuru Ramanayake 👋</h1>
 
 <p align="center">
-  Undergraduate engineer building across embedded systems, computer vision, and full-stack development.<br/>
-  Interested in applied AI, IoT, and systems that connect hardware with intelligent software.
+  Undergraduate engineer working across embedded systems, computer vision, and AI.<br/>
+  I build things that sit at the intersection of hardware and intelligent software —<br/>
+  from autonomous robots to assistive AI systems.
 </p>
 
 ---
@@ -15,10 +16,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=labview&logoColor=black)
 
 ---
 
@@ -26,9 +27,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Smart Medibox](https://github.com/GayuruRamanayake/Smart-Medibox) | IoT medicine storage with light-adaptive sliding windows & Node-RED dashboard | C++, Arduino, Node-RED |
-| [Auto-Tracking Security Camera](https://github.com/GayuruRamanayake/Auto-Tracking-Security-Camera-System) | Real-time object tracking & people detection with SolidWorks 3D integration | MATLAB, Simulink |
-| [Potato Disease Classifier](https://github.com/GayuruRamanayake/potato-disease-classification-application) | CNN-based plant disease detection pipeline | Python, TensorFlow |
+| [🦯 Blind Assist](https://github.com/Blind-Assist) *(WIP)* | Assistive AI system for visually impaired users using vision-language models (VLMs) deployed on-device | Python, VLMs, InternVL, NVILA |
+| [🤖 Maze Solver Robot](https://github.com/SarangaVP/MazeSolver_Group03) | Autonomous robot navigating maze arenas using wall-following, line-following & path optimisation | C++, Arduino |
+| [🔥 Fire Detection & Mitigation](https://github.com/ushariRanasinghe/Fire-Detection-and-Mitigation-) | Real-time fire detection via Haar Cascade CV + multi-sensor fusion, with automated actuation via LabVIEW | Python, OpenCV, LabVIEW |
+| [📷 Auto-Tracking Security Camera](https://github.com/GayuruRamanayake/Auto-Tracking-Security-Camera-System) | Real-time people detection & object tracking with SolidWorks 3D model + Simulink simulation | MATLAB, Simulink |
 
 ---
 
